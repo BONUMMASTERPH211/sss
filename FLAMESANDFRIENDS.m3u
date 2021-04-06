@@ -1,9 +1,16 @@
+
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://img2.pngio.com/exclamation-mark-png-pic-png-arts-exclamation-point-logo-png-1185_1184.png",Premium Access For Client Only.
-plugin://plugin.video.youtube/play/?video_id=CM4CkVFmTds
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/exclamation-mark-png-pic-png-arts-exclamation-point-logo-png-1185_1184.png",FLAMES AND FRIENDSHIP GROUP ON FB
+http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
 
-#EXTINF:-1 tvg-logo="https://img2.pngio.com/exclamation-mark-png-pic-png-arts-exclamation-point-logo-png-1185_1184.png", Do not spread the links. [Owner:Chris BonumMaster]
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/exclamation-mark-png-pic-png-arts-exclamation-point-logo-png-1185_1184.png",Special thanks to
+Jhon Michel Bantiles Kesha Marquez Aamerah aamerah Chris Mazon lilang Romero rich Mark Lyn
+Mary ann Eslais Masugod Jean Myla Comia
+Queen imotera Reynard Romero Liang Taya amella
+ ahtide Nabetse Arnold Perges Glory Uanang
+http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/exclamation-mark-png-pic-png-arts-exclamation-point-logo-png-1185_1184.png",Developer Chris Mazon :BonumMaster UndergroundSecurity Spider PH Anonymous PH God PH
 http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Kapamilya_Channel_logo.svg/revision/latest/scale-to-width-down/2000?cb=20200819050409" group-title="Local",Kapamilya Channel
